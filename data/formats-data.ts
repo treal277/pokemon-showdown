@@ -6045,9 +6045,11 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	slowpose: {
+		isNonstandard: "Custom",
 		tier: "UU",
 	},
 	slowtow: {
+		isNonstandard: "Custom",
 		tier: "UU",
 	},
 };
