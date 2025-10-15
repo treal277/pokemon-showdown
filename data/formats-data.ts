@@ -1489,7 +1489,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	heracross: {
-		tier: "PUBL",
+		tier: "PU",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -6043,5 +6043,11 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	pokestarufopropu2: {
 		isNonstandard: "Custom",
 		tier: "Illegal",
+	},
+	slowpose: {
+		tier: "UU",
+	},
+	slowtow: {
+		tier: "UU",
 	},
 };
